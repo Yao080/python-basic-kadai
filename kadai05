@@ -1,0 +1,8 @@
+topside = 10
+bottomside = 20
+height = 5
+
+# 公式：台形の面積 =（上辺＋下辺）× 高さ ÷ 2
+# 計算結果の最後に"cm²"を付与
+print(str((topside + bottomside) * height /2) + "cm²" ) 
+75.0cm²
